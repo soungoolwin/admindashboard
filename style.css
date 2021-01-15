@@ -1,0 +1,13 @@
+.lgcolor a{
+    color: rgb(116, 108, 108);
+}
+li{
+
+    list-style-type: none;
+}
+.toright {
+    text-align: right;
+}
+.tomr {
+    margin-right: 8px;
+}
